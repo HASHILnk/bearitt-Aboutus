@@ -26,7 +26,7 @@ header p {
 
 .about-section {
     position: relative;
-    background-image: url('background.jpg'); /* Ensure this is the correct image file name */
+    background-image: url('background.webp'); /* Ensure this is the correct image file name */
     background-size: cover;
     background-position: center;
     height: 100vh; /* Adjust height as needed */
